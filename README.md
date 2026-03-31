@@ -63,6 +63,17 @@ Full stack
 
 </div>
 
+### Status
+
+<p align="center">
+  <img src="https://github-readme-stats.LordNecoReal.vercel.app/api?username=LordNecoReal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.LordNecoReal.vercel.app/api/top-langs/?username=LordNecoReal&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" />
+</p>
+
+---
 
 <div>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=212121&height=120&section=footer"/>
