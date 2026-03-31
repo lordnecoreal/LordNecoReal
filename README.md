@@ -6,6 +6,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=LordNecoReal.LordNecoReal&"  />
+</div>
+
+###
+
 ## CURSOS JÁ FEITOS:
 
 Pacote office, windows 10, operador de micro computadores nivel médio.  
