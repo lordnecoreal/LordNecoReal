@@ -75,9 +75,7 @@ Full stack
 
 ---
 
-<div>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=212121&height=120&section=footer"/>
-</div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LordNecoReal/LordNecoReal/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LordNecoReal/LordNecoReal/output/pacman-contribution-graph.svg">
@@ -85,3 +83,6 @@ Full stack
 </picture>
 
 
+<div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=212121&height=120&section=footer"/>
+</div>
